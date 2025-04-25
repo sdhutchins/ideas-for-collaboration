@@ -5,7 +5,7 @@ This is a living list of ideas, prototypes, and concepts I’m exploring. These 
 ## Ideas
 
 ### **labgloss**  
-A lightweight CLI and web app to define, track, store, and search for lab-specific terms.. Designed to improve onboarding, reproducibility, and communication in both dry and wet labs.
+A lightweight CLI and web app to define, track, store, and search for lab-specific terms. Designed to improve onboarding, reproducibility, and communication in both dry and wet labs.
 
 ### **SciTask**  
 A productivity suite for computational scientists to structure projects using reproducible templates and science-aware to-do lists. Intended to support data analysis pipelines, grant writing, and manuscript workflows.
